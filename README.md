@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a fortune telling app**
  
- 🌱 I’m currently learning **C#, Redis, Lua**
+ 🌱 I’m currently learning **C#, Redis**
 
  </div>
  
